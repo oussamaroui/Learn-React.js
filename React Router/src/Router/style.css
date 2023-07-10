@@ -1,0 +1,36 @@
+body{
+    padding: 0px; margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #eaeaea;
+    padding:0px 30px ;
+}
+h3 {
+    font-size: 24px;
+    font-weight: bold;
+}
+nav ul {
+    width: 400px;
+    list-style-type: none;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;    
+}
+.navLink{
+    color: black;
+    text-decoration: dotted;
+    
+}
+.c{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    font-size: 30px;
+}
+.welcome{
+    text-align: center;
+}
